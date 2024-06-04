@@ -1,0 +1,1 @@
+The Resume Matcher with Job Description Integration is a software application designed to streamline the job application process by automatically matching candidate resumes with job descriptions. The project leverages natural language processing (NLP) techniques and machine learning algorithms to assess the compatibility between a candidate's resume and a given job description.
